@@ -16,7 +16,7 @@ print(line4)
 print(line5)
 print(line6)
 print(line7)
-print(line8)
+print()  # Adds a blank line between initials
 
 line1 = ' OOO '
 line2 = 'O   O'
@@ -32,7 +32,7 @@ print(line4)
 print(line5)
 print(line6)
 print(line7)
-print(line8)
+print()  # Adds a blank line between initials
 
 line1 = 'M   M'
 line2 = 'MM MM'
@@ -48,7 +48,7 @@ print(line4)
 print(line5)
 print(line6)
 print(line7)
-print(line8)
+print()  # Adds a blank line between initials
 
 line1 = '  A  '
 line2 = ' A A '
@@ -64,7 +64,7 @@ print(line4)
 print(line5)
 print(line6)
 print(line7)
-print(line8)
+print()  # Adds a blank line between initials
 
 line1 = 'N   N'
 line2 = 'NN  N'
@@ -79,4 +79,4 @@ print(line3)
 print(line4)
 print(line5)
 print(line6)
-print(line7)
+print()  # Adds a blank line between initials
